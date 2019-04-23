@@ -1,0 +1,31 @@
+body {
+    background-color: beige;
+  }
+
+h1 {
+    width: 80;
+    text-align:center;
+}
+
+h2 {
+    text-align: justify;
+}
+
+.color-blue{
+    color: skyblue;
+}
+
+.color-red{
+    color: black;
+}
+
+#articles {
+    margin-bottom: 32px;
+    background-color: red;
+}
+
+#contracts {
+    margin-bottom: 32px;
+    background-color:yellow;
+    text-align:center;
+}
